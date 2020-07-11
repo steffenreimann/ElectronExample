@@ -1,9 +1,9 @@
 # ElectronExample
 
 
-##### [Install](#Install normal Dependencies and devDependencies)
-##### [Rebuild](#Rebuild for electron)
-##### [Run App](#Run App in Development)
+##### [Install](#Install-normal-Dependencies-and-devDependencies)
+##### [Rebuild](#Rebuild-for-electron)
+##### [Run App](#Run-App-in-Development)
 
 
 ## NPM Commands
