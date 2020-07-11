@@ -1,9 +1,9 @@
 # ElectronExample
 
 
-### [Install](#Install)
-### [Rebuild](#Rebuild)
-### [Run App](#Run)
+[Install](#Install)
+[Rebuild](#Rebuild)
+[Run App](#Run)
 
 
 ## NPM Commands
