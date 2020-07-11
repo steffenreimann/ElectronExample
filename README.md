@@ -1,22 +1,29 @@
 # ElectronExample
 
 
-# NPM Commands
+## NPM Commands
 
+#### Install normal dependencies and Developer devDependencies
 ```bash
-Install normal dependencies and Developer devDependencies
----
 npm run install-all 
 ```
 
-
-Install normal dependencies and Developer devDependencies
-
+#### Rebuild for electron
+```bash
 npm run rebuild
+```
 
-npm run app 
 
+#### Run App in Development 
+```bash
+npm run app
+```
+
+#### Package your App for your OS on your OS
+```bash
 npm run package-mac 
 npm run package-win 
 npm run package-linux
+```
+
 
