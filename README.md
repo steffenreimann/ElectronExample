@@ -15,10 +15,13 @@ if you have an Package that must rebuild for electron you must edit the package.
 Replace in package.json File <PACKAGE> with your Package
 ```
 
+
 ```javascript
 "rebuild": "electron-rebuild -f -w <PACKAGE>"
 ```
 
+
+##### Rebuild
 ```bash
 npm run rebuild
 ```
