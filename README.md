@@ -3,12 +3,19 @@
 
 ## NPM Commands
 
-#### Install normal dependencies and Developer devDependencies
+#### Install normal Dependencies and devDependencies
 ```bash
 npm run install-all 
 ```
 
 #### Rebuild for electron
+if you have an Package that must rebuild for electron you must edit the package.json
+
+Replace <PACKAGE> with your Package
+```javascript
+"rebuild": "electron-rebuild -f -w <PACKAGE>"
+```
+
 ```bash
 npm run rebuild
 ```
