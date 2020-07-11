@@ -11,7 +11,10 @@ npm run install-all
 #### Rebuild for electron
 if you have an Package that must rebuild for electron you must edit the package.json
 
-Replace in package.json File "<PACKAGE>" with your Package
+```text
+Replace in package.json File <PACKAGE> with your Package
+```
+
 ```javascript
 "rebuild": "electron-rebuild -f -w <PACKAGE>"
 ```
