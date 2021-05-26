@@ -18,12 +18,12 @@
   "author": "Steffen Reimann",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "easy-nodejs-app-settings": "0.0.2"
   },
   "devDependencies": {
-    "electron": "^>=9.4.0",
-    "electron-packager": "^15.1.0",
-    "electron-rebuild": "^1.11.0"
+    "electron": "^13.0.0",
+    "electron-packager": "^15.2.0",
+    "electron-rebuild": "^2.3.5"
   },
   "bugs": {
     "url": "https://github.com/steffenreimann/ElectronExample/issues"
